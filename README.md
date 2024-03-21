@@ -1,0 +1,1 @@
+I created a backend application called "CrickInformer" which shows all the live cricket information. I used Spring boot framework for this and using web scrapping I fetched the data from Crickbuzz website.
